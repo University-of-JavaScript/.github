@@ -1,6 +1,6 @@
-## Hey, this is us 👋
+## Hey there, Developers! 👋
 
-All you need to know about JavaScript.
+We are delighted to welcome you to the University of JavaScript, a place for all you need to know about JavaScript.
 
 ### 🌍 A universal community
 
